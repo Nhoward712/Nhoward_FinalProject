@@ -1,0 +1,24 @@
+﻿Neal Howard
+.net Database Programming
+Final Project Outline
+5/30/2020
+
+1.	Display all categories (option 1)
+2.	Add Category “Ice Cream” (option 2)
+	a.	Check it was done by displaying all categories (option 1)
+3.	Edit Category (option 6)
+	a.	Check it was done by displaying all categories (option 1)
+4.	Add Product “Rocky Road” to “Ice Cream” (option 5)
+	a.	Check it was done by “Display all categories and related products” (option 3)
+5.	Edit Product (option 8)
+	a.	Check it was done by “Display all categories and related products” (option 3)
+6.	Display all options in the product table (option 10)
+	a.	User Option “A”
+	b.	User Option “D”
+	c.	User Option “C”
+7.	Display a specific product with all fields (option 3)
+8.	Display all Categories and their related active (not discontinued) product data (option 4)
+9.	Delete Product “Rocky Road” from the Products table (option 9)
+	a.	Show Item was deleted (option 5)
+10.	Delete Category “Ice Cream” from the Category Table
+	a.	Show category was deleted (option 1)
